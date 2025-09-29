@@ -75,7 +75,3 @@ See `requirements.txt` for all dependencies, including:
 
 - **ModuleNotFoundError:** Make sure to run scripts from the project root, or add the root to your `PYTHONPATH`.
 - **dotenv errors:** Ensure `python-dotenv` is installed and `.env` is present.
-
-## License
-
-MIT
