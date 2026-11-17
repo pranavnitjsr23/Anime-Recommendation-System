@@ -5,9 +5,9 @@ with open("requirements.txt") as f:
 
 setup(
     name="Anime-Recommender",
-    version="0.1",
-    author="Amit",
-    author_email="amitksingh3022@gmial.com",
+    version="0.2",
+    author="Pranav",
+    author_email="pranavnitjsr23@gmail.com",
     packages=find_packages(),
     install_requires=requirements,
 )
